@@ -10,3 +10,7 @@ https://github.com/rpsreal/pySX127x</p>
 <p>Link: 
 https://github.com/sandeepmistry/arduino-LoRa</p>
 
+<h4>Pin Configuration for LoRa-02 and RPI4</h4>
+| Raspberry Pi      | LoRa-02(SX1278)     |
+| ----------------- | ------------------- |
+| 3.3V              | 3.3V                |
